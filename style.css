@@ -1,0 +1,12 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Darumadrop+One&display=swap');
+  .title{
+    font-size: 600;
+    font-style: italic;
+
+  }
+  .text{font-family: 'Courier New', Courier, monospace
+    ;font-size: large;
+font-weight: 100;
+color: rgba(122, 20, 223, 0.816);text-align: center;text-decoration: dashed;text-transform: capitalize;}
+.img{text-align: center;}
